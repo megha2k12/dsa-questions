@@ -1,0 +1,4 @@
+# Application YAML for dsa-questions
+server:
+  port: 8080
+
